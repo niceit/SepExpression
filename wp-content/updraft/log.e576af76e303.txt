@@ -1,0 +1,402 @@
+0000.000 (0) Opened log file at time: Fri, 09 Jan 2015 15:02:22 +0000 on http://seoexpression.com
+0000.001 (0) UpdraftPlus WordPress backup plugin (http://updraftplus.com): 1.9.26 WP: 3.8.5 PHP: 5.4.36 (Linux cp58.zonasprivadasdns.com 2.6.32-042stab090.5 #1 SMP Sat Jun 21 00:15:09 MSK 2014 x86_64) MySQL: 5.5.40-cll Server: LiteSpeed safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 29M | 29.3M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.189 (0) Free space on disk containing Updraft's temporary directory: 27233.2 Mb / Free disk space in account: 227.2 Mb (77.8 % used)
+0000.192 (0) Tasks: Backup files: 1 (schedule: manual) Backup DB: 1 (schedule: manual)
+0000.197 (0) Requesting semaphore lock (fd)
+0000.199 (0) Semaphore (fd) was stuck, set lock time to 2015-01-09 15:02:22
+0000.199 (0) Semaphore (fd) reset to 1
+0000.200 (0) Set semaphore last lock (fd) time to 2015-01-09 15:02:22
+0000.201 (0) Semaphore lock (fd) complete
+0000.203 (0) Backup run: resumption=0, nonce=e576af76e303, begun at=1420815742 (0s ago), job type=backup
+0000.205 (0) Scheduling a resumption (1) after 300 seconds (1420816042) in case this run gets aborted
+0000.214 (0) OpenVZ; reported memory: 16000 Mb (will not use BinZip)
+0000.216 (0) Creation of backups of directories: beginning
+0000.222 (0) Beginning creation of dump of plugins (split every: 500 Mb)
+0000.425 (0) Free disk space in account: 227.2 Mb (77.8 % used)
+0002.051 (0) Total entities for the zip file: 905 directories, 4963 files (0 skipped as non-modified), 51 Mb
+0002.076 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-plugins.zip.tmp: 100 files added (on-disk size: 0 Kb)
+0002.083 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-plugins.zip.tmp: 200 files added (on-disk size: 0 Kb)
+0002.090 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-plugins.zip.tmp: 300 files added (on-disk size: 0 Kb)
+0002.097 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-plugins.zip.tmp: 400 files added (on-disk size: 0 Kb)
+0002.105 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-plugins.zip.tmp: 500 files added (on-disk size: 0 Kb)
+0002.106 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (7.5 Mb, 4963 files batched, 501 (501) added so far); re-opening (prior size: 0 Kb)
+0003.024 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-plugins.zip.tmp: 600 files added (on-disk size: 2698.9 Kb)
+0003.033 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-plugins.zip.tmp: 700 files added (on-disk size: 2698.9 Kb)
+0003.042 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-plugins.zip.tmp: 800 files added (on-disk size: 2698.9 Kb)
+0003.051 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-plugins.zip.tmp: 900 files added (on-disk size: 2698.9 Kb)
+0003.062 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-plugins.zip.tmp: 1000 files added (on-disk size: 2698.9 Kb)
+0003.063 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (8.3 Mb, 4963 files batched, 501 (1002) added so far); re-opening (prior size: 2698.9 Kb)
+0004.222 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-plugins.zip.tmp: 1100 files added (on-disk size: 5467.1 Kb)
+0004.235 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-plugins.zip.tmp: 1200 files added (on-disk size: 5467.1 Kb)
+0004.247 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-plugins.zip.tmp: 1300 files added (on-disk size: 5467.1 Kb)
+0004.259 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-plugins.zip.tmp: 1400 files added (on-disk size: 5467.1 Kb)
+0004.272 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-plugins.zip.tmp: 1500 files added (on-disk size: 5467.1 Kb)
+0004.273 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.5 Mb, 4963 files batched, 501 (1503) added so far); re-opening (prior size: 5467.1 Kb)
+0005.137 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-plugins.zip.tmp: 1600 files added (on-disk size: 6919.2 Kb)
+0005.151 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-plugins.zip.tmp: 1700 files added (on-disk size: 6919.2 Kb)
+0005.164 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-plugins.zip.tmp: 1800 files added (on-disk size: 6919.2 Kb)
+0005.177 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-plugins.zip.tmp: 1900 files added (on-disk size: 6919.2 Kb)
+0005.190 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-plugins.zip.tmp: 2000 files added (on-disk size: 6919.2 Kb)
+0005.191 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.5 Mb, 4963 files batched, 501 (2004) added so far); re-opening (prior size: 6919.2 Kb)
+0006.051 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-plugins.zip.tmp: 2100 files added (on-disk size: 8366.7 Kb)
+0006.066 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-plugins.zip.tmp: 2200 files added (on-disk size: 8366.7 Kb)
+0006.080 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-plugins.zip.tmp: 2300 files added (on-disk size: 8366.7 Kb)
+0006.095 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-plugins.zip.tmp: 2400 files added (on-disk size: 8366.7 Kb)
+0006.111 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-plugins.zip.tmp: 2500 files added (on-disk size: 8366.7 Kb)
+0006.113 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.7 Mb, 4963 files batched, 501 (2505) added so far); re-opening (prior size: 8366.7 Kb)
+0006.653 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-plugins.zip.tmp: 2600 files added (on-disk size: 9175.3 Kb)
+0006.670 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-plugins.zip.tmp: 2700 files added (on-disk size: 9175.3 Kb)
+0006.688 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-plugins.zip.tmp: 2800 files added (on-disk size: 9175.3 Kb)
+0006.707 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-plugins.zip.tmp: 2900 files added (on-disk size: 9175.3 Kb)
+0006.725 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-plugins.zip.tmp: 3000 files added (on-disk size: 9175.3 Kb)
+0006.727 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.5 Mb, 4963 files batched, 501 (3006) added so far); re-opening (prior size: 9175.3 Kb)
+0007.338 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-plugins.zip.tmp: 3100 files added (on-disk size: 10349.8 Kb)
+0007.357 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-plugins.zip.tmp: 3200 files added (on-disk size: 10349.8 Kb)
+0007.376 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-plugins.zip.tmp: 3300 files added (on-disk size: 10349.8 Kb)
+0007.391 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-plugins.zip.tmp: 3400 files added (on-disk size: 10349.8 Kb)
+0007.408 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-plugins.zip.tmp: 3500 files added (on-disk size: 10349.8 Kb)
+0007.410 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (7 Mb, 4963 files batched, 501 (3507) added so far); re-opening (prior size: 10349.8 Kb)
+0008.262 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-plugins.zip.tmp: 3600 files added (on-disk size: 14166.5 Kb)
+0008.280 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-plugins.zip.tmp: 3700 files added (on-disk size: 14166.5 Kb)
+0008.297 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-plugins.zip.tmp: 3800 files added (on-disk size: 14166.5 Kb)
+0008.314 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-plugins.zip.tmp: 3900 files added (on-disk size: 14166.5 Kb)
+0008.332 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-plugins.zip.tmp: 4000 files added (on-disk size: 14166.5 Kb)
+0008.334 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.6 Mb, 4963 files batched, 501 (4008) added so far); re-opening (prior size: 14166.5 Kb)
+0008.962 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-plugins.zip.tmp: 4100 files added (on-disk size: 17604.4 Kb)
+0008.982 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-plugins.zip.tmp: 4200 files added (on-disk size: 17604.4 Kb)
+0009.002 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-plugins.zip.tmp: 4300 files added (on-disk size: 17604.4 Kb)
+0009.022 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-plugins.zip.tmp: 4400 files added (on-disk size: 17604.4 Kb)
+0009.043 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-plugins.zip.tmp: 4500 files added (on-disk size: 17604.4 Kb)
+0009.045 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.7 Mb, 4963 files batched, 501 (4509) added so far); re-opening (prior size: 17604.4 Kb)
+0009.700 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-plugins.zip.tmp: 4600 files added (on-disk size: 20058.4 Kb)
+0009.721 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-plugins.zip.tmp: 4700 files added (on-disk size: 20058.4 Kb)
+0009.742 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-plugins.zip.tmp: 4800 files added (on-disk size: 20058.4 Kb)
+0009.763 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-plugins.zip.tmp: 4900 files added (on-disk size: 20058.4 Kb)
+0010.984 (0) Created plugins zip (0) - 23118.3 Kb in 10.6 s (2190 Kb/s) (SHA1 checksum: 8f547602827654259542a22f616054d755b7a75d)
+0010.986 (0) Beginning creation of dump of themes (split every: 500 Mb)
+0011.162 (0) Free disk space in account: 227.2 Mb (77.8 % used)
+0011.244 (0) Total entities for the zip file: 221 directories, 828 files (0 skipped as non-modified), 8.5 Mb
+0011.250 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-themes.zip.tmp: 100 files added (on-disk size: 0 Kb)
+0011.255 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-themes.zip.tmp: 200 files added (on-disk size: 0 Kb)
+0011.259 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-themes.zip.tmp: 300 files added (on-disk size: 0 Kb)
+0011.264 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-themes.zip.tmp: 400 files added (on-disk size: 0 Kb)
+0011.269 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-themes.zip.tmp: 500 files added (on-disk size: 0 Kb)
+0011.270 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6.4 Mb, 828 files batched, 501 (501) added so far); re-opening (prior size: 0 Kb)
+0011.935 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-themes.zip.tmp: 600 files added (on-disk size: 5161.4 Kb)
+0011.946 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-themes.zip.tmp: 700 files added (on-disk size: 5161.4 Kb)
+0011.957 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-themes.zip.tmp: 800 files added (on-disk size: 5161.4 Kb)
+0012.431 (0) Created themes zip (0) - 6737.2 Kb in 1.3 s (5314.1 Kb/s) (SHA1 checksum: ef1362cb780f7e583ae8f129b673454cff003922)
+0012.434 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone
+0012.435 (0) Looking for candidates to back up in: /home/seoexpre/public_html/wp-content/uploads
+0012.436 (0) finding files: 2013: adding to list (1)
+0012.437 (0) finding files: 2015: adding to list (2)
+0012.437 (0) finding files: 2014: adding to list (3)
+0012.438 (0) finding files: shortcodes-ultimate-skins: adding to list (4)
+0012.439 (0) Beginning creation of dump of uploads (split every: 500 Mb)
+0012.631 (0) Free disk space in account: 227.2 Mb (77.8 % used)
+0012.667 (0) Total entities for the zip file: 18 directories, 282 files (0 skipped as non-modified), 24.5 Mb
+0012.673 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-uploads.zip.tmp: 100 files added (on-disk size: 0 Kb)
+0012.679 (0) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-uploads.zip.tmp: 200 files added (on-disk size: 0 Kb)
+0647.058 (1) Opened log file at time: Fri, 09 Jan 2015 15:13:09 +0000 on http://seoexpression.com
+0647.059 (1) UpdraftPlus WordPress backup plugin (http://updraftplus.com): 1.9.26 WP: 3.8.5 PHP: 5.4.36 (Linux cp58.zonasprivadasdns.com 2.6.32-042stab090.5 #1 SMP Sat Jun 21 00:15:09 MSK 2014 x86_64) MySQL: 5.5.40-cll Server: LiteSpeed safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 24.9M | 25.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+0647.237 (1) Free space on disk containing Updraft's temporary directory: 30712.2 Mb / Free disk space in account: 227.2 Mb (77.8 % used)
+0647.238 (1) Backup run: resumption=1, nonce=e576af76e303, begun at=1420815742 (647s ago), job type=backup, previous check-in=12.4s
+0647.240 (1) Scheduling a resumption (2) after 300 seconds (1420816689) in case this run gets aborted
+0647.249 (1) OpenVZ; reported memory: 16000 Mb (will not use BinZip)
+0647.249 (1) Creation of backups of directories: had begun; will resume
+0647.253 (1) Beginning creation of dump of plugins (split every: 500 Mb)
+0647.254 (1) backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-plugins.zip: this file has already been created (age: 636 s)
+0647.256 (1) Beginning creation of dump of themes (split every: 500 Mb)
+0647.257 (1) backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-themes.zip: this file has already been created (age: 635 s)
+0647.259 (1) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone
+0647.259 (1) Looking for candidates to back up in: /home/seoexpre/public_html/wp-content/uploads
+0647.261 (1) finding files: 2013: adding to list (1)
+0647.262 (1) finding files: 2015: adding to list (2)
+0647.263 (1) finding files: 2014: adding to list (3)
+0647.263 (1) finding files: shortcodes-ultimate-skins: adding to list (4)
+0647.264 (1) Beginning creation of dump of uploads (split every: 500 Mb)
+0647.264 (1) Deleting old temporary file: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-uploads.zip.tmp.HhwIKv
+0647.274 (1) File exists (/home/seoexpre/public_html/wp-content/updraft/backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-uploads.zip.tmp), but was apparently not modified within the last 30 seconds, so we assume that any previous run has now terminated (time_mod=1420815754, time_now=1420816389, diff=635)
+0647.460 (1) Free disk space in account: 227.2 Mb (77.8 % used)
+0647.462 (1) Zip file already exists, but is not readable or was zero-sized; will remove: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-uploads.zip.tmp
+0647.481 (1) Total entities for the zip file: 18 directories, 296 files (0 skipped as non-modified), 25.2 Mb
+0647.488 (1) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-uploads.zip.tmp: 100 files added (on-disk size: 0 Kb)
+0647.493 (1) Zip: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-uploads.zip.tmp: 200 files added (on-disk size: 0 Kb)
+0647.497 (1) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 Mb added on this batch (25.1 Mb, 296 files batched, 293 (293) added so far); re-opening (prior size: 0 Kb)
+0650.540 (1) A useful amount of data was added after this amount of zip processing: 3.8 s (normalised: 3.8 s, rate: 6747 Kb/s)
+0650.541 (1) Performance is good - will increase the amount of data we attempt to batch (time=3.80693602562, normalised_time=3.79430099635, max_time=12, data points known=1, old_max_bytes=26214400, new_max_bytes=49743992)
+0650.921 (1) Created uploads zip (0) - 20865.2 Kb in 3.5 s (6031 Kb/s) (SHA1 checksum: 19d2b787d9b3e866b30f759f1dcbaa9f8960fbc7)
+0650.924 (1) Beginning backup of other directories found in the content directory (index: 0)
+0650.925 (1) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups
+0650.926 (1) Looking for candidates to back up in: /home/seoexpre/public_html/wp-content
+0650.927 (1) finding files: languages: adding to list (1)
+0650.928 (1) finding files: cache: skipping: excluded by options
+0650.929 (1) finding files: updraft: skipping: this is the updraft directory
+0650.930 (1) finding files: backups: skipping: excluded by options (glob)
+0650.931 (1) finding files: backups: skipping: excluded by options (glob)
+0650.931 (1) finding files: themes: skipping: this is the themes directory
+0650.932 (1) finding files: uploads: skipping: this is the uploads directory
+0650.932 (1) finding files: upgrade: skipping: excluded by options
+0650.933 (1) finding files: w3tc-config: adding to list (2)
+0650.934 (1) finding files: install.php: adding to list (3)
+0650.935 (1) finding files: plugins: skipping: this is the plugins directory
+0650.936 (1) finding files: index.php: adding to list (4)
+0651.140 (1) Free disk space in account: 227.2 Mb (77.8 % used)
+0651.148 (1) Total entities for the zip file: 2 directories, 9 files (0 skipped as non-modified), 0.7 Mb
+0651.263 (1) Created others zip (0) - 246.8 Kb in 0.1 s (2024.9 Kb/s) (SHA1 checksum: e219ee3ac6e3e78b93be30a92333090945f87b0e)
+0651.267 (1) Saving backup status to database (elements: 8)
+0651.269 (1) Resuming creation of database dump (WordPress DB)
+0651.271 (1) Testing: /usr/bin/mysqldump
+0651.308 (1) Working binary mysqldump found: /usr/bin/mysqldump
+0651.318 (1) Table lig_options: Total expected rows (approximate): 410
+0651.387 (1) Table lig_options: Total rows added: 409 in 0.07 seconds
+0651.389 (1) Table lig_options: finishing file (backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db-table-lig_options.table.gz - 178.3 Kb)
+0651.392 (1) Table lig_users: Total expected rows (approximate): 3
+0651.395 (1) Table lig_users: Total rows added: 3 in 0.00 seconds
+0651.396 (1) Table lig_users: finishing file (backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db-table-lig_users.table.gz - 0.7 Kb)
+0651.399 (1) Table lig_usermeta: Total expected rows (approximate): 64
+0651.402 (1) Table lig_usermeta: Total rows added: 64 in 0.00 seconds
+0651.403 (1) Table lig_usermeta: finishing file (backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db-table-lig_usermeta.table.gz - 1.4 Kb)
+0651.407 (1) Table lig_commentmeta: Total expected rows (approximate): 0
+0651.409 (1) Table lig_commentmeta: Total rows added: 0 in 0.00 seconds
+0651.410 (1) Table lig_commentmeta: finishing file (backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db-table-lig_commentmeta.table.gz - 0.3 Kb)
+0651.413 (1) Table lig_comments: Total expected rows (approximate): 0
+0651.416 (1) Table lig_comments: Total rows added: 0 in 0.00 seconds
+0651.417 (1) Table lig_comments: finishing file (backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db-table-lig_comments.table.gz - 0.5 Kb)
+0651.421 (1) Table lig_links: Total expected rows (approximate): 0
+0651.424 (1) Table lig_links: Total rows added: 0 in 0.00 seconds
+0651.425 (1) Table lig_links: finishing file (backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db-table-lig_links.table.gz - 0.4 Kb)
+0651.428 (1) Table lig_postmeta: Total expected rows (approximate): 870
+0651.457 (1) Table lig_postmeta: Total rows added: 870 in 0.03 seconds
+0651.458 (1) Table lig_postmeta: finishing file (backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db-table-lig_postmeta.table.gz - 13 Kb)
+0651.462 (1) Table lig_posts: Total expected rows (approximate): 599
+0651.624 (1) Table lig_posts: Total rows added: 599 in 0.16 seconds
+0651.626 (1) Table lig_posts: finishing file (backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db-table-lig_posts.table.gz - 160.5 Kb)
+0651.629 (1) Table lig_term_relationships: Total expected rows (approximate): 444
+0651.636 (1) Table lig_term_relationships: Total rows added: 444 in 0.01 seconds
+0651.637 (1) Table lig_term_relationships: finishing file (backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db-table-lig_term_relationships.table.gz - 1.7 Kb)
+0651.640 (1) Table lig_term_taxonomy: Total expected rows (approximate): 115
+0651.645 (1) Table lig_term_taxonomy: Total rows added: 115 in 0.00 seconds
+0651.646 (1) Table lig_term_taxonomy: finishing file (backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db-table-lig_term_taxonomy.table.gz - 1.6 Kb)
+0651.649 (1) Table lig_terms: Total expected rows (approximate): 115
+0651.653 (1) Table lig_terms: Total rows added: 115 in 0.00 seconds
+0651.654 (1) Table lig_terms: finishing file (backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db-table-lig_terms.table.gz - 2 Kb)
+0651.658 (1) Table lig_nextend_smartslider_layouts: Total expected rows (approximate): 0
+0651.660 (1) Table lig_nextend_smartslider_layouts: Total rows added: 0 in 0.00 seconds
+0651.660 (1) Table lig_nextend_smartslider_layouts: finishing file (backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db-table-lig_nextend_smartslider_layouts.table.gz - 0.3 Kb)
+0651.664 (1) Table lig_nextend_smartslider_sliders: Total expected rows (approximate): 1
+0651.666 (1) Table lig_nextend_smartslider_sliders: Total rows added: 1 in 0.00 seconds
+0651.667 (1) Table lig_nextend_smartslider_sliders: finishing file (backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db-table-lig_nextend_smartslider_sliders.table.gz - 1.3 Kb)
+0651.670 (1) Table lig_nextend_smartslider_slides: Total expected rows (approximate): 3
+0651.673 (1) Table lig_nextend_smartslider_slides: Total rows added: 3 in 0.00 seconds
+0651.673 (1) Table lig_nextend_smartslider_slides: finishing file (backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db-table-lig_nextend_smartslider_slides.table.gz - 1.8 Kb)
+0651.678 (1) Table lig_nextend_smartslider_storage: Total expected rows (approximate): 6
+0651.681 (1) Table lig_nextend_smartslider_storage: Total rows added: 6 in 0.00 seconds
+0651.682 (1) Table lig_nextend_smartslider_storage: finishing file (backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db-table-lig_nextend_smartslider_storage.table.gz - 4.8 Kb)
+0651.685 (1) Table lig_prli_clicks: Total expected rows (approximate): 0
+0651.687 (1) Table lig_prli_clicks: Total rows added: 0 in 0.00 seconds
+0651.688 (1) Table lig_prli_clicks: finishing file (backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db-table-lig_prli_clicks.table.gz - 0.4 Kb)
+0651.691 (1) Table lig_prli_groups: Total expected rows (approximate): 0
+0651.693 (1) Table lig_prli_groups: Total rows added: 0 in 0.00 seconds
+0651.693 (1) Table lig_prli_groups: finishing file (backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db-table-lig_prli_groups.table.gz - 0.3 Kb)
+0651.696 (1) Table lig_prli_link_metas: Total expected rows (approximate): 0
+0651.698 (1) Table lig_prli_link_metas: Total rows added: 0 in 0.00 seconds
+0651.699 (1) Table lig_prli_link_metas: finishing file (backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db-table-lig_prli_link_metas.table.gz - 0.3 Kb)
+0651.701 (1) Table lig_prli_links: Total expected rows (approximate): 0
+0651.703 (1) Table lig_prli_links: Total rows added: 0 in 0.00 seconds
+0651.704 (1) Table lig_prli_links: finishing file (backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db-table-lig_prli_links.table.gz - 0.4 Kb)
+0651.709 (1) Table lig_testimonial_slider: Total expected rows (approximate): 0
+0651.711 (1) Table lig_testimonial_slider: Total rows added: 0 in 0.00 seconds
+0651.712 (1) Table lig_testimonial_slider: finishing file (backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db-table-lig_testimonial_slider.table.gz - 0.3 Kb)
+0651.721 (1) Table lig_testimonial_slider_meta: Total expected rows (approximate): 1
+0651.723 (1) Table lig_testimonial_slider_meta: Total rows added: 1 in 0.00 seconds
+0651.723 (1) Table lig_testimonial_slider_meta: finishing file (backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db-table-lig_testimonial_slider_meta.table.gz - 0.3 Kb)
+0651.729 (1) Table lig_testimonial_slider_postmeta: Total expected rows (approximate): 0
+0651.731 (1) Table lig_testimonial_slider_postmeta: Total rows added: 0 in 0.00 seconds
+0651.732 (1) Table lig_testimonial_slider_postmeta: finishing file (backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db-table-lig_testimonial_slider_postmeta.table.gz - 0.3 Kb)
+0651.737 (1) Table lig_wpb2d_excluded_files: Total expected rows (approximate): 33
+0651.740 (1) Table lig_wpb2d_excluded_files: Total rows added: 33 in 0.00 seconds
+0651.740 (1) Table lig_wpb2d_excluded_files: finishing file (backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db-table-lig_wpb2d_excluded_files.table.gz - 0.6 Kb)
+0651.743 (1) Table lig_wpb2d_options: Total expected rows (approximate): 13
+0651.746 (1) Table lig_wpb2d_options: Total rows added: 13 in 0.00 seconds
+0651.746 (1) Table lig_wpb2d_options: finishing file (backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db-table-lig_wpb2d_options.table.gz - 0.6 Kb)
+0651.750 (1) Table lig_wpb2d_processed_dbtables: Total expected rows (approximate): 0
+0651.752 (1) Table lig_wpb2d_processed_dbtables: Total rows added: 0 in 0.00 seconds
+0651.753 (1) Table lig_wpb2d_processed_dbtables: finishing file (backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db-table-lig_wpb2d_processed_dbtables.table.gz - 0.3 Kb)
+0651.756 (1) Table lig_wpb2d_processed_files: Total expected rows (approximate): 0
+0651.758 (1) Table lig_wpb2d_processed_files: Total rows added: 0 in 0.00 seconds
+0651.759 (1) Table lig_wpb2d_processed_files: finishing file (backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db-table-lig_wpb2d_processed_files.table.gz - 0.3 Kb)
+0651.762 (1) backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db-table-lig_options.table.gz (1/26): adding to final database dump
+0651.829 (1) backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db-table-lig_users.table.gz (2/26): adding to final database dump
+0651.831 (1) backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db-table-lig_usermeta.table.gz (3/26): adding to final database dump
+0651.832 (1) backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db-table-lig_commentmeta.table.gz (4/26): adding to final database dump
+0651.833 (1) backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db-table-lig_comments.table.gz (5/26): adding to final database dump
+0651.834 (1) backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db-table-lig_links.table.gz (6/26): adding to final database dump
+0651.835 (1) backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db-table-lig_postmeta.table.gz (7/26): adding to final database dump
+0651.861 (1) backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db-table-lig_posts.table.gz (8/26): adding to final database dump
+0651.946 (1) backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db-table-lig_term_relationships.table.gz (9/26): adding to final database dump
+0651.949 (1) backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db-table-lig_term_taxonomy.table.gz (10/26): adding to final database dump
+0651.950 (1) backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db-table-lig_terms.table.gz (11/26): adding to final database dump
+0651.952 (1) backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db-table-lig_nextend_smartslider_layouts.table.gz (12/26): adding to final database dump
+0651.953 (1) backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db-table-lig_nextend_smartslider_sliders.table.gz (13/26): adding to final database dump
+0651.954 (1) backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db-table-lig_nextend_smartslider_slides.table.gz (14/26): adding to final database dump
+0651.956 (1) backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db-table-lig_nextend_smartslider_storage.table.gz (15/26): adding to final database dump
+0651.958 (1) backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db-table-lig_prli_clicks.table.gz (16/26): adding to final database dump
+0651.959 (1) backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db-table-lig_prli_groups.table.gz (17/26): adding to final database dump
+0651.959 (1) backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db-table-lig_prli_link_metas.table.gz (18/26): adding to final database dump
+0651.960 (1) backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db-table-lig_prli_links.table.gz (19/26): adding to final database dump
+0651.961 (1) backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db-table-lig_testimonial_slider.table.gz (20/26): adding to final database dump
+0651.962 (1) backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db-table-lig_testimonial_slider_meta.table.gz (21/26): adding to final database dump
+0651.962 (1) backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db-table-lig_testimonial_slider_postmeta.table.gz (22/26): adding to final database dump
+0651.963 (1) backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db-table-lig_wpb2d_excluded_files.table.gz (23/26): adding to final database dump
+0651.964 (1) backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db-table-lig_wpb2d_options.table.gz (24/26): adding to final database dump
+0651.965 (1) backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db-table-lig_wpb2d_processed_dbtables.table.gz (25/26): adding to final database dump
+0651.965 (1) backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db-table-lig_wpb2d_processed_files.table.gz (26/26): adding to final database dump
+0651.967 (1) backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db.gz: finished writing out complete database file (352 Kb)
+0651.972 (1) Total database tables backed up: 26 (backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db.gz, size: 376592, checksum (SHA1): e32014b928102f0f9d38e6c769649d4c2dfd0345)
+0651.973 (1) Saving backup history
+0651.977 (1) backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0651.978 (1) backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0651.978 (1) backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0651.979 (1) backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-others.zip: others: This file has not yet been successfully uploaded: will queue
+0651.980 (1) backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db.gz: db: This file has not yet been successfully uploaded: will queue
+0651.982 (1) Requesting upload of the files that have not yet been successfully uploaded (5)
+0651.984 (1) Cloud backup selection: dropbox
+0651.987 (1) Beginning dispatch of backup to remote (dropbox)
+0651.987 (1) Dropbox: begin cloud upload
+0651.995 (1) Dropbox: access gained
+0653.134 (1) Dropbox quota usage: normal=1542.8 Mb, shared=115.7 Mb, total=6400 Mb, available=4741.5 Mb
+0653.135 (1) Dropbox: Attempt to upload: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-plugins.zip to: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-plugins.zip
+0656.915 (1) Dropbox chunked upload: 4.4 % uploaded (ut4eazQLtth1Sd7LN9vnFA, 1048576)
+0659.839 (1) Dropbox chunked upload: 8.9 % uploaded (ut4eazQLtth1Sd7LN9vnFA, 2097152)
+0663.158 (1) Dropbox chunked upload: 13.3 % uploaded (ut4eazQLtth1Sd7LN9vnFA, 3145728)
+0666.650 (1) Dropbox chunked upload: 17.7 % uploaded (ut4eazQLtth1Sd7LN9vnFA, 4194304)
+0669.104 (1) Dropbox chunked upload: 22.1 % uploaded (ut4eazQLtth1Sd7LN9vnFA, 5242880)
+0671.967 (1) Dropbox chunked upload: 26.6 % uploaded (ut4eazQLtth1Sd7LN9vnFA, 6291456)
+0674.932 (1) Dropbox chunked upload: 31 % uploaded (ut4eazQLtth1Sd7LN9vnFA, 7340032)
+0678.705 (1) Dropbox chunked upload: 35.4 % uploaded (ut4eazQLtth1Sd7LN9vnFA, 8388608)
+0681.920 (1) Dropbox chunked upload: 39.9 % uploaded (ut4eazQLtth1Sd7LN9vnFA, 9437184)
+0684.883 (1) Dropbox chunked upload: 44.3 % uploaded (ut4eazQLtth1Sd7LN9vnFA, 10485760)
+0687.960 (1) Dropbox chunked upload: 48.7 % uploaded (ut4eazQLtth1Sd7LN9vnFA, 11534336)
+0691.674 (1) Dropbox chunked upload: 53.2 % uploaded (ut4eazQLtth1Sd7LN9vnFA, 12582912)
+0694.397 (1) Dropbox chunked upload: 57.6 % uploaded (ut4eazQLtth1Sd7LN9vnFA, 13631488)
+0697.265 (1) Dropbox chunked upload: 62 % uploaded (ut4eazQLtth1Sd7LN9vnFA, 14680064)
+0701.007 (1) Dropbox chunked upload: 66.4 % uploaded (ut4eazQLtth1Sd7LN9vnFA, 15728640)
+0705.584 (1) Dropbox chunked upload: 70.9 % uploaded (ut4eazQLtth1Sd7LN9vnFA, 16777216)
+0708.471 (1) Dropbox chunked upload: 75.3 % uploaded (ut4eazQLtth1Sd7LN9vnFA, 17825792)
+0711.323 (1) Dropbox chunked upload: 79.7 % uploaded (ut4eazQLtth1Sd7LN9vnFA, 18874368)
+0714.201 (1) Dropbox chunked upload: 84.2 % uploaded (ut4eazQLtth1Sd7LN9vnFA, 19922944)
+0717.865 (1) Dropbox chunked upload: 88.6 % uploaded (ut4eazQLtth1Sd7LN9vnFA, 20971520)
+0720.521 (1) Dropbox chunked upload: 93 % uploaded (ut4eazQLtth1Sd7LN9vnFA, 22020096)
+0723.465 (1) Dropbox chunked upload: 97.4 % uploaded (ut4eazQLtth1Sd7LN9vnFA, 23068672)
+0726.370 (1) Dropbox chunked upload: 100 % uploaded (ut4eazQLtth1Sd7LN9vnFA, 23673174)
+0728.949 (1) Recording as successfully uploaded: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-plugins.zip (bad03431562070580804d80e304a2bfc)
+0728.959 (1) Deleting local file: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-plugins.zip: OK
+0728.961 (1) Dropbox: File upload success (backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-plugins.zip): 23118 Kb in 75s (304 Kb/s)
+0730.014 (1) Dropbox quota usage: normal=1565.3 Mb, shared=115.7 Mb, total=6400 Mb, available=4719 Mb
+0730.015 (1) Dropbox: Attempt to upload: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-themes.zip to: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-themes.zip
+0732.772 (1) Dropbox chunked upload: 15.2 % uploaded (h6Huw0rgvCdJHWaTRh6Jjw, 1048576)
+0735.872 (1) Dropbox chunked upload: 30.4 % uploaded (h6Huw0rgvCdJHWaTRh6Jjw, 2097152)
+0739.507 (1) Dropbox chunked upload: 45.6 % uploaded (h6Huw0rgvCdJHWaTRh6Jjw, 3145728)
+0744.032 (1) Dropbox chunked upload: 60.8 % uploaded (h6Huw0rgvCdJHWaTRh6Jjw, 4194304)
+0747.243 (1) Dropbox chunked upload: 76 % uploaded (h6Huw0rgvCdJHWaTRh6Jjw, 5242880)
+0750.182 (1) Dropbox chunked upload: 91.2 % uploaded (h6Huw0rgvCdJHWaTRh6Jjw, 6291456)
+0753.117 (1) Dropbox chunked upload: 100 % uploaded (h6Huw0rgvCdJHWaTRh6Jjw, 6898843)
+0755.161 (1) Recording as successfully uploaded: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-themes.zip (47944c9258ca3fc933b09bcedfecada4)
+0755.169 (1) Deleting local file: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-themes.zip: OK
+0755.170 (1) Dropbox: File upload success (backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-themes.zip): 6737 Kb in 25s (267 Kb/s)
+0756.269 (1) Dropbox quota usage: normal=1571.9 Mb, shared=115.7 Mb, total=6400 Mb, available=4712.4 Mb
+0756.270 (1) Dropbox: Attempt to upload: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-uploads.zip to: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-uploads.zip
+0759.389 (1) Dropbox chunked upload: 4.9 % uploaded (bf7eEIT_HiGz5fxjKrBjQA, 1048576)
+0762.680 (1) Dropbox chunked upload: 9.8 % uploaded (bf7eEIT_HiGz5fxjKrBjQA, 2097152)
+0766.039 (1) Dropbox chunked upload: 14.7 % uploaded (bf7eEIT_HiGz5fxjKrBjQA, 3145728)
+0769.706 (1) Dropbox chunked upload: 19.6 % uploaded (bf7eEIT_HiGz5fxjKrBjQA, 4194304)
+0772.668 (1) Dropbox chunked upload: 24.5 % uploaded (bf7eEIT_HiGz5fxjKrBjQA, 5242880)
+0775.695 (1) Dropbox chunked upload: 29.4 % uploaded (bf7eEIT_HiGz5fxjKrBjQA, 6291456)
+0778.841 (1) Dropbox chunked upload: 34.4 % uploaded (bf7eEIT_HiGz5fxjKrBjQA, 7340032)
+0782.816 (1) Dropbox chunked upload: 39.3 % uploaded (bf7eEIT_HiGz5fxjKrBjQA, 8388608)
+0785.845 (1) Dropbox chunked upload: 44.2 % uploaded (bf7eEIT_HiGz5fxjKrBjQA, 9437184)
+0788.566 (1) Dropbox chunked upload: 49.1 % uploaded (bf7eEIT_HiGz5fxjKrBjQA, 10485760)
+0791.985 (1) Dropbox chunked upload: 54 % uploaded (bf7eEIT_HiGz5fxjKrBjQA, 11534336)
+0795.501 (1) Dropbox chunked upload: 58.9 % uploaded (bf7eEIT_HiGz5fxjKrBjQA, 12582912)
+0798.332 (1) Dropbox chunked upload: 63.8 % uploaded (bf7eEIT_HiGz5fxjKrBjQA, 13631488)
+0801.426 (1) Dropbox chunked upload: 68.7 % uploaded (bf7eEIT_HiGz5fxjKrBjQA, 14680064)
+0804.388 (1) Dropbox chunked upload: 73.6 % uploaded (bf7eEIT_HiGz5fxjKrBjQA, 15728640)
+0807.926 (1) Dropbox chunked upload: 78.5 % uploaded (bf7eEIT_HiGz5fxjKrBjQA, 16777216)
+0810.606 (1) Dropbox chunked upload: 83.4 % uploaded (bf7eEIT_HiGz5fxjKrBjQA, 17825792)
+0813.474 (1) Dropbox chunked upload: 88.3 % uploaded (bf7eEIT_HiGz5fxjKrBjQA, 18874368)
+0816.294 (1) Dropbox chunked upload: 93.2 % uploaded (bf7eEIT_HiGz5fxjKrBjQA, 19922944)
+0819.621 (1) Dropbox chunked upload: 98.2 % uploaded (bf7eEIT_HiGz5fxjKrBjQA, 20971520)
+0821.742 (1) Dropbox chunked upload: 100 % uploaded (bf7eEIT_HiGz5fxjKrBjQA, 21365999)
+0823.587 (1) Recording as successfully uploaded: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-uploads.zip (892ad1c929ef98da854ca18de7e72369)
+0823.610 (1) Deleting local file: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-uploads.zip: OK
+0823.611 (1) Dropbox: File upload success (backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-uploads.zip): 20865 Kb in 67s (309 Kb/s)
+0824.726 (1) Dropbox quota usage: normal=1592.3 Mb, shared=115.7 Mb, total=6400 Mb, available=4692 Mb
+0824.728 (1) Dropbox: Attempt to upload: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-others.zip to: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-others.zip
+0826.703 (1) Dropbox chunked upload: 100 % uploaded (qtwHad4ObanPDjv3s7rwMg, 252730)
+0828.941 (1) Recording as successfully uploaded: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-others.zip (f642335241c42c92a083c5745476a412)
+0828.948 (1) Deleting local file: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-others.zip: OK
+0828.949 (1) Dropbox: File upload success (backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-others.zip): 246 Kb in 4s (58 Kb/s)
+0830.580 (1) Dropbox quota usage: normal=1592.5 Mb, shared=115.7 Mb, total=6400 Mb, available=4691.8 Mb
+0830.581 (1) Dropbox: Attempt to upload: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db.gz to: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db.gz
+0833.089 (1) Dropbox chunked upload: 100 % uploaded (iDafCNw80EzXPYhKIVYujg, 376592)
+0835.126 (1) Recording as successfully uploaded: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db.gz (17741b7fb5e396825df42799512fde98)
+0835.135 (1) Deleting local file: backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db.gz: OK
+0835.136 (1) Dropbox: File upload success (backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db.gz): 367 Kb in 4s (80 Kb/s)
+0835.140 (1) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0835.175 (1) Number of backup sets in history: 4
+0835.176 (1) Examining backup set with datestamp: 1420815742 (Jan 09 2015 15:02:22)
+0835.177 (1) 1420815742: db: this set includes a database (backup_2015-01-09-1602_Consultora_Seo__Optimizacin_e576af76e303-db.gz); db count is now 1
+0835.180 (1) 1420815742: this backup set remains non-empty (1/1); will retain in history
+0835.181 (1) Examining backup set with datestamp: 1415314944 (Nov 06 2014 23:02:24)
+0835.181 (1) 1415314944: db: this set includes a database (backup_2014-11-07-0002_SeoExpression__Consultor_Seo_Lo_151af40465fa-db.gz); db count is now 2
+0835.184 (1) 1415314944: this backup set remains non-empty (1/1); will retain in history
+0835.185 (1) Examining backup set with datestamp: 1413540486 (Oct 17 2014 10:08:06)
+0835.185 (1) 1413540486: db: this set includes a database (backup_2014-10-17-1108_SeoExpression__Consultor_Seo_Lo_716828f23db9-db.gz); db count is now 3
+0835.186 (1) 1413540486: db: over retain limit (2); will delete this database
+0835.187 (1) Delete file: backup_2014-10-17-1108_SeoExpression__Consultor_Seo_Lo_716828f23db9-db.gz, service=dropbox
+0835.188 (1) Dropbox: request deletion: backup_2014-10-17-1108_SeoExpression__Consultor_Seo_Lo_716828f23db9-db.gz
+0836.483 (1) Dropbox: delete succeeded
+0836.485 (1) plugins: 1413540486: over retain limit (2); will delete this file (backup_2014-10-17-1108_SeoExpression__Consultor_Seo_Lo_716828f23db9-plugins.zip)
+0836.486 (1) themes: 1413540486: over retain limit (2); will delete this file (backup_2014-10-17-1108_SeoExpression__Consultor_Seo_Lo_716828f23db9-themes.zip)
+0836.487 (1) uploads: 1413540486: over retain limit (2); will delete this file (backup_2014-10-17-1108_SeoExpression__Consultor_Seo_Lo_716828f23db9-uploads.zip)
+0836.487 (1) others: 1413540486: over retain limit (2); will delete this file (backup_2014-10-17-1108_SeoExpression__Consultor_Seo_Lo_716828f23db9-others.zip)
+0836.488 (1) Delete file: backup_2014-10-17-1108_SeoExpression__Consultor_Seo_Lo_716828f23db9-plugins.zip, service=dropbox
+0836.489 (1) Delete file: backup_2014-10-17-1108_SeoExpression__Consultor_Seo_Lo_716828f23db9-themes.zip, service=dropbox
+0836.489 (1) Delete file: backup_2014-10-17-1108_SeoExpression__Consultor_Seo_Lo_716828f23db9-uploads.zip, service=dropbox
+0836.490 (1) Delete file: backup_2014-10-17-1108_SeoExpression__Consultor_Seo_Lo_716828f23db9-others.zip, service=dropbox
+0836.490 (1) Dropbox: request deletion: backup_2014-10-17-1108_SeoExpression__Consultor_Seo_Lo_716828f23db9-plugins.zip
+0837.705 (1) Dropbox: delete succeeded
+0837.707 (1) Dropbox: request deletion: backup_2014-10-17-1108_SeoExpression__Consultor_Seo_Lo_716828f23db9-themes.zip
+0839.098 (1) Dropbox: delete succeeded
+0839.099 (1) Dropbox: request deletion: backup_2014-10-17-1108_SeoExpression__Consultor_Seo_Lo_716828f23db9-uploads.zip
+0840.310 (1) Dropbox: delete succeeded
+0840.312 (1) Dropbox: request deletion: backup_2014-10-17-1108_SeoExpression__Consultor_Seo_Lo_716828f23db9-others.zip
+0841.509 (1) Dropbox: delete succeeded
+0841.512 (1) 1413540486: this backup set is now empty; will remove from history
+0841.513 (1) 1413540486: deleting log file (log.716828f23db9.txt)
+0841.514 (1) Examining backup set with datestamp: 1412167465 (Oct 01 2014 12:44:25)
+0841.515 (1) 1412167465: db: this set includes a database (backup_2014-10-01-1344_SeoExpression__Consultor_Seo_Lo_4c08a514e601-db.gz); db count is now 4
+0841.515 (1) 1412167465: db: over retain limit (2); will delete this database
+0841.516 (1) Delete file: backup_2014-10-01-1344_SeoExpression__Consultor_Seo_Lo_4c08a514e601-db.gz, service=dropbox
+0841.517 (1) Dropbox: request deletion: backup_2014-10-01-1344_SeoExpression__Consultor_Seo_Lo_4c08a514e601-db.gz
+0842.581 (1) Dropbox error: Path '/backup_2014-10-01-1344_seoexpression__consultor_seo_lo_4c08a514e601-db.gz' not found (line: 171, file: /home/seoexpre/public_html/wp-content/plugins/updraftplus/includes/Dropbox/OAuth/Consumer/Curl.php)
+0842.584 (1) plugins: 1412167465: over retain limit (2); will delete this file (backup_2014-10-01-1344_SeoExpression__Consultor_Seo_Lo_4c08a514e601-plugins.zip)
+0842.585 (1) themes: 1412167465: over retain limit (2); will delete this file (backup_2014-10-01-1344_SeoExpression__Consultor_Seo_Lo_4c08a514e601-themes.zip)
+0842.586 (1) uploads: 1412167465: over retain limit (2); will delete this file (backup_2014-10-01-1344_SeoExpression__Consultor_Seo_Lo_4c08a514e601-uploads.zip)
+0842.587 (1) others: 1412167465: over retain limit (2); will delete this file (backup_2014-10-01-1344_SeoExpression__Consultor_Seo_Lo_4c08a514e601-others.zip)
+0842.588 (1) Delete file: backup_2014-10-01-1344_SeoExpression__Consultor_Seo_Lo_4c08a514e601-plugins.zip, service=dropbox
+0842.589 (1) Delete file: backup_2014-10-01-1344_SeoExpression__Consultor_Seo_Lo_4c08a514e601-themes.zip, service=dropbox
+0842.589 (1) Delete file: backup_2014-10-01-1344_SeoExpression__Consultor_Seo_Lo_4c08a514e601-uploads.zip, service=dropbox
+0842.590 (1) Delete file: backup_2014-10-01-1344_SeoExpression__Consultor_Seo_Lo_4c08a514e601-others.zip, service=dropbox
+0842.591 (1) Dropbox: request deletion: backup_2014-10-01-1344_SeoExpression__Consultor_Seo_Lo_4c08a514e601-plugins.zip
+0843.674 (1) Dropbox error: Path '/backup_2014-10-01-1344_seoexpression__consultor_seo_lo_4c08a514e601-plugins.zip' not found (line: 171, file: /home/seoexpre/public_html/wp-content/plugins/updraftplus/includes/Dropbox/OAuth/Consumer/Curl.php)
+0843.677 (1) 1412167465: this backup set is now empty; will remove from history
+0843.678 (1) 1412167465: deleting log file (log.4c08a514e601.txt)
+0843.680 (1) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0843.683 (1) Resume backup (e576af76e303, 1): finish run
+0843.685 (1) There were no errors in the uploads, so the 'resume' event (2) is being unscheduled
+0843.689 (1) Fetching RSS news feed
+0843.856 (1) Fetched RSS news feed; result is a: SimplePie
+0843.860 (1) Sending email ('Files and database (Full backup)') report (attachments: 0, size: 0 Kb) to: mrier...
+0843.939 (1) The backup apparently succeeded and is now complete

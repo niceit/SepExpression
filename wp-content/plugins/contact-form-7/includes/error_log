@@ -1,0 +1,2 @@
+[24-Jul-2014 15:34:21 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/seoexpre/public_html/wp-content/plugins/contact-form-7/includes/upgrade.php on line 3
+[24-Jul-2014 15:34:27 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/seoexpre/public_html/wp-content/plugins/contact-form-7/includes/controller.php on line 3

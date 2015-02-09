@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<title>
+	Rieraweb	</title>
+	<!--
+		Semi dynamic meta keywords and meta description. Google likes meta info that changes for each page.
+		While these meta keywords are not ideal and the meta description could be better, they are better than nothing.
+	-->
+	<meta name="keywords" content=" , Rieraweb , Marketing Online y Consultoría SEO" />
+	<meta name="description" content=" | Marketing Online y Consultoría SEO" />
+	<meta charset="UTF-8" />
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="index" title="Rieraweb" href="http://seoparaemprendedores.ipage.com/" />
+	<link rel="pingback" href="http://seoparaemprendedores.ipage.com/xmlrpc.php" />
+	<link rel="alternate" type="application/rss+xml" title="Rieraweb" href="http://seoparaemprendedores.ipage.com/?feed=rss2" />
+	<link rel="alternate" type="application/atom+xml" title="Rieraweb" href="http://seoparaemprendedores.ipage.com/?feed=atom" />
+	<!-- The HTML5 Shim is required for older browsers, mainly older versions IE -->
+	<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	<!--[if lt IE 7]>
+	   <script type="text/javascript" src="http://info.template-help.com/files/ie6_warning/ie6_script_other.js"></script>
+	 <![endif]-->
+	<link rel="stylesheet" type="text/css" media="all" href="http://seoparaemprendedores.ipage.com/wp-content/themes/theme1173/style.css" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://seoparaemprendedores.ipage.com/wp-content/themes/theme1173/css/grid.css" />
+	<link rel="alternate" type="application/rss+xml" title="Rieraweb &raquo; Feed" href="http://seoparaemprendedores.ipage.com/?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="Rieraweb &raquo; Comments Feed" href="http://seoparaemprendedores.ipage.com/?feed=comments-rss2" />
+<link rel="alternate" type="application/rss+xml" title="Rieraweb &raquo; Home Comments Feed" href="http://seoparaemprendedores.ipage.com/?feed=rss2&#038;page_id=9" />
+<script type='text/javascript' src='http://seoparaemprendedores.ipage.com/wp-content/themes/theme1173/js/jquery-1.4.4.min.js?ver=1.4.4'></script>
+<script type='text/javascript' src='http://seoparaemprendedores.ipage.com/wp-content/themes/theme1173/js/superfish.js?ver=1.4.8'></script>
+<script type='text/javascript' src='http://seoparaemprendedores.ipage.com/wp-content/themes/theme1173/js/cufon-yui.js?ver=3.8.1'></script>
+<script type='text/javascript' src='http://seoparaemprendedores.ipage.com/wp-content/themes/theme1173/js/cufon-replace.js?ver=3.8.1'></script>
+<script type='text/javascript' src='http://seoparaemprendedores.ipage.com/wp-content/themes/theme1173/js/M_1c_400.font.js?ver=3.8.1'></script>
+<script type='text/javascript' src='http://seoparaemprendedores.ipage.com/wp-content/themes/theme1173/js/M_1p_800.font.js?ver=3.8.1'></script>
+<script type='text/javascript' src='http://seoparaemprendedores.ipage.com/wp-content/themes/theme1173/js/Franchise_700.font.js?ver=3.8.1'></script>
+<script type='text/javascript' src='http://seoparaemprendedores.ipage.com/wp-content/themes/theme1173/js/jquery.backgroundPosition.js?ver=1.21'></script>
+<script type='text/javascript' src='http://seoparaemprendedores.ipage.com/wp-content/themes/theme1173/js/easyTooltip.js?ver=1.0'></script>
+<script type='text/javascript' src='http://seoparaemprendedores.ipage.com/wp-includes/js/comment-reply.min.js?ver=3.8.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://seoparaemprendedores.ipage.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://seoparaemprendedores.ipage.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='SEO Tools' href='http://seoparaemprendedores.ipage.com/?page_id=2' />
+<link rel='next' title='Services' href='http://seoparaemprendedores.ipage.com/?page_id=45' />
+<meta name="generator" content="WordPress 3.8.1" />
+<link rel='canonical' href='http://seoparaemprendedores.ipage.com/' />
+<link rel='shortlink' href='http://seoparaemprendedores.ipage.com/?p=9' />
+  <script type="text/javascript">
+  	// initialise plugins
+		jQuery(function(){
+			// main navigation init
+			jQuery('ul.sf-menu').superfish({
+				animation:   {opacity:'show', height:'show'}
+			});
+			
+			jQuery('#widget-header #header-banners h3 a').hover(function(){
+			  	jQuery(this).stop().animate({ "backgroundPosition":"0 0"}, "fast")
+			},function() {  
+                 	jQuery(this).stop().animate({ "backgroundPosition":"0 -81px"}, "fast")
+               });
+			
+			jQuery('#center-banners a.block').hover(function(){
+			  	jQuery(this).stop().animate({ "backgroundPosition":"0 0"}, "fast")
+			},function() {  
+                 	jQuery(this).stop().animate({ "backgroundPosition":"0 -141px"}, "fast")
+               });
+			
+			jQuery(".social-networks a").easyTooltip({
+				yOffset: 35
+			});
+			
+		});
+  </script>
+</head>
+
+<body class="home page page-id-9 page-template page-template-home-php">
+
+<div class="tail-top">
+<div id="main"><!-- this encompasses the entire Web site -->
+	<header>
+		<div class="container_24">
+			<div class="grid_24"><div class="logo">
+      	          <h1><a href="http://seoparaemprendedores.ipage.com/" title="Marketing Online y Consultoría SEO">Rieraweb</a></h1>
+              </div>
+			<nav class="primary">
+        <ul id="topnav" class="sf-menu"><li id="menu-item-4" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-4"><a href="http://seoparaemprendedores.ipage.com/">Home</a></li>
+<li id="menu-item-5" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5"><a href="http://seoparaemprendedores.ipage.com/?page_id=2">SEO Tools</a></li>
+</ul>			</nav><!--.primary-->
+			<div id="widget-header">
+				              <div id="my_cyclewidget-3" class="widget widget_my_cyclewidget">                  						
+													
+              
+								<div id="header-banners">
+																																	
+									                  						<h3 class="style-1"><a href="http://seoparaemprendedores.ipage.com/?banners-1=e-commerce-solutions" class="style-1"><span>E-commerce Solutions</span></a></h3>
+																		
+									                  						<h3 class="style-2"><a href="http://seoparaemprendedores.ipage.com/?banners-1=link-building" class="style-2"><span>Link Building</span></a></h3>
+																		
+									                  						<h3 class="style-3"><a href="http://seoparaemprendedores.ipage.com/?banners-1=content-management" class="style-3"><span>Content Management</span></a></h3>
+																		
+									                  						<h3 class="style-4"><a href="http://seoparaemprendedores.ipage.com/?banners-1=web-development" class="style-4"><span>Web Development</span></a></h3>
+																	                			 </div>
+			 
+			 
+			               </div>        <div id="search-2" class="widget widget_search"><form method="get" id="searchform" action="http://seoparaemprendedores.ipage.com">
+
+<input type="text" class="searching" value="Search ..." onfocus="if(this.value=='Search ...'){this.value=''}" onblur="if(this.value==''){this.value='Search ...'}" name="s" id="s" /><input class="submit" type="submit" value="" />
+
+</form>
+</div><div id="text-2" class="widget widget_text">			<div class="textwidget"><img src="http://seoparaemprendedores.ipage.com/wp-content/uploads/2014/02/facebook.png" />
+<img src="http://seoparaemprendedores.ipage.com/wp-content/uploads/2014/02/linkedin.png" />
+<img  src="http://seoparaemprendedores.ipage.com/wp-content/uploads/2014/02/technorati.png" />
+<img src="http://seoparaemprendedores.ipage.com/wp-content/uploads/2014/02/twitter.png" width="24" height="24" /></div>
+		</div>			</div></div>
+		</div><!--.container-->
+	</header>
+	<div id="top-sidebar-wrap"><div class="container_24 extra-wrap">
+		<div class="grid_24">
+			<div id="top-sidebar">
+				<div id="text-3" class="widget widget_text"><h3>Free Website Analysis</h3>			<div class="textwidget">Call Free: 0123456789
+mail@demo.com</div>
+		</div>              <div id="my_cyclewidget-4" class="widget widget_my_cyclewidget">                  						
+													
+              
+								<div id="center-banners">
+																																										
+                  						<a href="http://seoparaemprendedores.ipage.com/?banners-2=seo-pricing" class="block"><div class="inside"><h3>SEO Pricing</h3><p>Lorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem Ipsum</p>
+</div></a>
+																											
+                  						<a href="http://seoparaemprendedores.ipage.com/?banners-2=seo-guarantee" class="block"><div class="inside"><h3>SEO Guarantee</h3><p>Lorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem Ipsum</p>
+</div></a>
+																											
+                  						<a href="http://seoparaemprendedores.ipage.com/?banners-2=seo-mathodology" class="block"><div class="inside"><h3>SEO Mathodology</h3><p>Lorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem Ipsum</p>
+</div></a>
+																	                			 </div>
+			 
+			               </div>        			</div>
+		</div>
+	</div></div>
+	<div class="container primary_content_wrap">
+  	<div class="wrapper"><div class="container_24">
+	<div class="grid_7">
+		<div class="prefix_1 right-indent">
+			<div id="sidebar">
+	<div id="categories-2" class="widget widget_categories"><h3>Services</h3>		<ul>
+	<li class="cat-item cat-item-3"><a href="http://seoparaemprendedores.ipage.com/?cat=3" title="View all posts filed under Blog">Blog</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://seoparaemprendedores.ipage.com/?cat=4" title="View all posts filed under Internet Marketing">Internet Marketing</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="http://seoparaemprendedores.ipage.com/?cat=12" title="View all posts filed under Keyword Research">Keyword Research</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="http://seoparaemprendedores.ipage.com/?cat=11" title="View all posts filed under Meta Tag">Meta Tag</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://seoparaemprendedores.ipage.com/?cat=1" title="View all posts filed under Optimization Tools">Optimization Tools</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="http://seoparaemprendedores.ipage.com/?cat=10" title="View all posts filed under Pay Per Click">Pay Per Click</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="http://seoparaemprendedores.ipage.com/?cat=9" title="View all posts filed under Reporting">Reporting</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://seoparaemprendedores.ipage.com/?cat=8" title="View all posts filed under Sample Press Release">Sample Press Release</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="http://seoparaemprendedores.ipage.com/?cat=7" title="View all posts filed under Site Questionnaire">Site Questionnaire</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://seoparaemprendedores.ipage.com/?cat=6" title="View all posts filed under Testimonials">Testimonials</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://seoparaemprendedores.ipage.com/?cat=5" title="View all posts filed under Website Submissions">Website Submissions</a>
+</li>
+		</ul>
+</div></div><!--sidebar-->		</div>
+	</div>
+	<div class="grid_12">
+		<div class="suffix_1">
+						<!--Wigitized 'Request' for the home page-->
+						<div class="latestwork"><div id="text-4" class="widget widget_text"><h3>What&#8217;s SEO?</h3>			<div class="textwidget">Lorem ipsum dolor sit consectetuer adipiscing Praesent vestibulum aenean nonummyhendrerit mauris. Hasellus porta. Fusce suscipit varius mi. Cum sociis natoque pnaibus et magnis dis parturient montes ascetur ridiculus mus. Nulla dui. </div>
+		</div>              <div id="my_cyclewidget-6" class="widget widget_my_cyclewidget">                  <h3>Latest Projects</h3>						
+									 
+			 <div class="folio">
+								
+																																									
+								<div class="cycle">
+																		<div class="featured-thumbnail"><a href="http://seoparaemprendedores.ipage.com/?portfolio=traveller"><img width="262" height="135" src="http://seoparaemprendedores.ipage.com/wp-content/uploads/2014/02/project1.jpg" class="attachment-post-thumbnail wp-post-image" alt="project1" /></a></div>
+                  <h4>Project name:<br />
+Traveller</h4>
+									<p>Lorem ipsum dolor sit consectetuer adipiscing Praesent vestibulum aenean ummy.</p>
+									<a href=""><b>visit website</b></a>
+									<div class="clear"></div>
+									<div class="bottom-links"><a href="http://seoparaemprendedores.ipage.com/?page_id=8">view more projects</a><a href="http://seoparaemprendedores.ipage.com/?portfolio=traveller">read more</a></div>
+									
+																	</div>
+																							</div>
+			 
+            
+            
+						              </div>        </div>
+		</div>
+	</div>
+	<div class="grid_5 sidebar-right">
+		              <div id="my_cyclewidget-5" class="widget_my_cyclewidget">                  						
+													
+              
+								<div id="right-banners">
+																																<ul>
+									
+										
+									                  						<li class="block block-1"><strong></strong><h3><a href="http://seoparaemprendedores.ipage.com/?banners-3=high-number-of-potential-coustomers">High number of potential coustomers</a></h3></li>
+																		
+										
+									                  						<li class="block block-2"><strong></strong><h3><a href="http://seoparaemprendedores.ipage.com/?banners-3=web-application-development">Web Application Development</a></h3></li>
+																		
+										
+									                  						<li class="block block-3"><strong></strong><h3><a href="http://seoparaemprendedores.ipage.com/?banners-3=reduce-your-online-marketing-charge">Reduce your online marketing charge</a></h3></li>
+																		
+										
+									                  						<li class="block block-4"><strong></strong><h3><a href="http://seoparaemprendedores.ipage.com/?banners-3=corporate-identity-and-name-branding">Corporate identity and name branding</a></h3></li>
+																		
+										
+									                  						<li class="block block-5"><strong></strong><h3><a href="http://seoparaemprendedores.ipage.com/?banners-3=secure-top-google-natural-rankings">Secure top google natural rankings</a></h3></li>
+																									</ul>
+                			 </div>
+			 
+			                </div>        	</div>
+</div>
+		</div><!--.wrapper-->
+  </div><!--.container-->
+	<footer id="footer">
+		<div class="container_24">
+			<div class="grid_24"><p class="prefix_1 suffix_1"><span class="fright"><!--{%FOOTER_LINK}--></span><a href="http://seoparaemprendedores.ipage.com/" title="Marketing Online y Consultoría SEO">Rieraweb</a><br />
+				is proudly powered by <a href="http://wordpress.org">Wordpress</a> <a href="http://seoparaemprendedores.ipage.com/?feed=rss2" rel="nofollow">Entries (RSS)</a> and <a href="http://seoparaemprendedores.ipage.com/?feed=comments-rss2" rel="nofollow">Comments (RSS)</a>
+			</p></div>
+		</div><!--.container-->
+	</footer>
+</div><!--#main-->
+</div>
+ <!-- this is used by many Wordpress features and for plugins to work proporly -->
+<script type="text/javascript"> Cufon.now(); Cufon.refresh(); </script>
+</body>
+</html>
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk: enhanced
+
+ Served from: seoparaemprendedores.ipage.com @ 2014-02-09 09:27:14 by W3 Total Cache -->

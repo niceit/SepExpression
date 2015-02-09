@@ -1,0 +1,154 @@
+@charset utf-8;
+/*--
+	Theme Name: WordPress Theme 1173
+	Theme URI: http://template-help.com/
+	Description: A theme from Template-Help.com Collection
+	Version: 3
+	Author: Template_Help.com 
+	Author URL: http://www.Template-Help.com/ 
+--*/
+
+html,body,div,span,object,iframe,blockquote,pre,abbr,address,cite,code,del,dfn,em,img,ins,kbd,q,samp,small,strong,var,fieldset,form,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,dialog,figure,footer,header,hgroup,menu,nav,section,time,mark,audio,video{
+  margin:0;
+  padding:0;
+  vertical-align:baseline;
+  text-align:justify;
+}
+article,aside,dialog,figure,footer,header,hgroup,menu,nav,section,time,mark,audio,video {
+  display:block;
+}
+body{
+  background:#e8eced;
+  color:#6a6a6a;
+  font:13px/18px "trebuchet MS", Helvetica, sans-serif;
+  position:relative;
+}
+textarea{
+  font:101%/1.5em Arial, Helvetica, sans-serif;
+}
+blockquote{
+  quotes:none;
+	border-left: 1px solid #CCCCCC;
+	font-style: italic;
+	margin-left: 2em;
+}
+.man {
+  color: black;
+  font-size: 14px;
+}
+q{
+  quotes:none;
+	font-style: italic;
+}
+blockquote:before,blockquote:after,q:before,q:after{
+  content:'';content:none;
+}
+:focus{
+  outline:none;
+}
+
+/* Baseline and common looks - Sets a vertical rhythm and styles the different elements.
+ */
+a{
+  text-decoration:underline;
+  border:0;
+  color:#418caf;
+}
+a:hover,a:focus{
+  text-decoration:none;
+}
+a img{
+  border:0;
+}
+abbr,acronym{
+  border-bottom:1px dotted;
+  cursor:help;
+  font-variant:small-caps;
+}
+address,cite,em,i{
+  font-style:italic;
+}
+blockquote p{
+  margin:0 1.5em 1.5em;
+  padding:0.75em;
+}
+code,kbd,tt{
+  font-family:"Courier New", Courier, monospace, serif;
+  line-height:1;
+}
+del{
+  text-decoration:line-through;
+}
+dfn{
+  border-bottom:1px dashed;
+  font-style:italic;
+}
+dl{
+  margin:0 0 1.5em;
+}
+dt{
+  font-weight:700;
+}
+dd{
+  margin-left:1.5em;
+}
+dl.locations dd {
+	margin:0 0 25px 0;
+}
+h1,h2,h3,h4,h5,h6{
+  font-weight:700;
+  padding:0;
+}
+h1{
+  font-size:2em;
+  line-height:1.2em;
+  margin:0 0 0.75em;
+  font-family:Arial, Helvetica, sans-serif !important;
+}
+h2,
+.widget_my_cyclewidget h3{
+  font-size:1.5em;
+  margin:0 0 1em;
+}
+	h2 a {
+		color:#000;
+		text-decoration:none;
+		}
+	h2 a:hover {
+		text-decoration:none;
+		color:#38096d;
+	}
+	
+
+h3{
+  font-size:18px;
+  margin:0 0 1.286em;
+  color:#0E3C4B;
+  clear:both;
+  text-transform:uppercase;
+  font-weight:bold;
+}
+h4{
+  font-size:1em;
+  color:#6a6a6a;
+  margin:0 0 7px;
+}
+h5{
+  font-size:0.8333em;
+  margin:0 0 1.8em;
+}
+h6{
+  font-size:0.666em;
+  margin:0 0 2.25em;
+}
+img{
+  display:inline-block;
+  vertical-align:text-bottom;
+}
+ins{
+  text-decoration:overline;
+}
+mark {
+  background-color:#ff9;
+  color:#000;
+  font-style:itali
