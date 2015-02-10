@@ -70,9 +70,9 @@ else{
 	
 
 	<meta charset="<?php bloginfo( 'charset' ); ?>" />
-
+	 <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=yes">	
 	<link rel="profile" href="http://gmpg.org/xfn/11" />
-
+	
 	<link rel="index" title="<?php bloginfo( 'name' ); ?>" href="<?php echo get_option('home'); ?>/" />
 
 	<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>" />
@@ -98,8 +98,7 @@ else{
 	<link rel="stylesheet" type="text/css" media="all" href="<?php bloginfo( 'stylesheet_url' ); ?>" />
 
   <link rel="stylesheet" type="text/css" media="all" href="<?php bloginfo( 'template_url' ); ?>/css/grid.css" />
-
-	<?php
+		<?php
 
 		/* We add some JavaScript to pages with the comment form
 
@@ -126,7 +125,7 @@ else{
 		wp_head();
 
 	?>
- 
+ <link rel="stylesheet" type="text/css" media="all" href="<?php bloginfo( 'template_url' ); ?>/css/responsive.css" />
  <script type="text/javascript">
   	// initialise plugins
 		jQuery(function(){
@@ -289,7 +288,7 @@ wp_nav_menu( $defaults );
 */
 ?>
 
-			</nav><!--.primary--> -->
+			</nav><!--.primary-->
 
 			<div id="widget-header">
 
@@ -299,14 +298,14 @@ wp_nav_menu( $defaults );
 
 				<?php endif ?>
 
-			</div></div>
+			</div>			</div>
 
 		</div><!--.container-->
 <?php 
     echo do_shortcode("[metaslider id=844]"); 
 ?>
 	</header>
-	<div id="top-sidebar-wrap"><div class="container_24 extra-wrap">
+	<div id="top-sidebar-wrap">		<div class="container_24 extra-wrap">
 
 		<div class="grid_24">
 
