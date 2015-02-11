@@ -284,6 +284,9 @@
 			padding:5px 10px;
 			width:92%;
 		}
+		iframe{
+			width:99% !important;
+		}
 	}
 	@media screen and (max-width: 700px){
 		.container_24 .grid_7{
@@ -309,7 +312,7 @@
 	@media screen and (max-width: 640px){
 		#footer p{
 			float:left !important;
-			padding-left:20px;
+			padding-left:20px !important;
 
 		}
 		#top-sidebar-wrap{
