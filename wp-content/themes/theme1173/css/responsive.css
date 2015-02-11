@@ -458,6 +458,9 @@
 		#footer p{
 			padding-left:3px;
 		}
+		#footer .container_24{
+			height:200px !important;
+		}
 	}
 	@media screen and (max-width: 320px){
 		#widget-header #header-banners{
@@ -466,7 +469,7 @@
 		}
 		.container_24 .grid_24{
 			width:96%;
-			top:458px;
+			
 
 		}
 	}
